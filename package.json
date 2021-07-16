@@ -4,7 +4,7 @@
   "description": "Just a webpack-template",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "wpack": "webpack -w"
   },
   "author": "",
   "license": "ISC",
