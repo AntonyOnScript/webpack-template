@@ -5,3 +5,5 @@ class Car {
 }
 
 let car = new Car('Ford')
+
+document.write(car.name)

@@ -12,6 +12,7 @@ var Car = function Car(name) {
 };
 
 var car = new Car('Ford');
+document.write(car.name);
 /******/ })()
 ;
 //# sourceMappingURL=bundle.js.map
